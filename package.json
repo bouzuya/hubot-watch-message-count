@@ -1,6 +1,6 @@
 {
   "name": "hubot-watch-message-count",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Hubot script for watching message count",
   "main": "index.js",
   "scripts": {
